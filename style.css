@@ -1,0 +1,44 @@
+#wrap {
+    text-align: center;
+    margin-top: 40px;
+}
+
+header,
+nav,
+section,
+footer {
+    
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+header a{
+    text-decoration: none;
+    color: rgb(229, 137, 167);
+}
+
+nav{
+    background-color: rgb(145, 148, 199);
+}
+
+nav a{
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 20px;
+    border-right: 1px solid red;
+    padding-right: 20px;
+}
+
+section{
+    margin-top: 40px;
+}
+
+section iframe,
+section img{
+    width: 860px;
+    height: 600px;
+}
+
